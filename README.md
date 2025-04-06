@@ -64,8 +64,5 @@ This project showcases end-to-end automated testing of the **Spotify mobile appl
 ## 👨‍💻 Author
 
 Malik Davis  
-*QA Engineer in training | Mobile Automation Enthusiast*  
-[GitHub Repo](https://github.com/MalikxD96/modules.git)
-
+*QA Engineer in training | Mobile Automation Enthusiast* 
 ---
-
